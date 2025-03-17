@@ -21,7 +21,7 @@ Build a full-stack application where users can:
 * Support profile picture uploads for contacts (1-2hrs)
 
 ## Disclaimer
-We don't expect the task to be completed 100%. This task is designed to get an idea of what you can accomplish within the given timeframe.
+This task is designed to get an idea of what you can accomplish within the given timeframe.
 As long as you can justify your approach with sound technical reasoning, we're interested in seeing:
 - Your problem-solving approach
 - Code organization and structure
